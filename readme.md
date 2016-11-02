@@ -24,6 +24,11 @@ Install dependencies
 composer install
 ```
 
+Set .env file
+```
+cp .env{.example,}
+```
+
 Migrate DB and Seed User's table for default admin user 
 ```
 php artisan migrate --seed
