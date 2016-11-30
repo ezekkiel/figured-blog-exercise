@@ -1,11 +1,11 @@
-Figured Blog Exersice
+PHP MongoDB Blog Prototype
 =====================
 
 A simple Blog using MongoDB as storage for posts and MySQL for users.
 
 **NOTE**: This code needs the MongoDB Driver por PHP. You can find installation instructions at http://php.net/manual/en/set.mongodb.php
 
-As requested for this project was used:
+Stack used:
  - Laravel 5.3
  - PHP7.0
  - MongoDB
@@ -17,7 +17,7 @@ Installation
 Clone the repo
 ```
 git clone git@github.com:ezekkiel/figured-blog-exercise.git
-cd figured-blog-exercise
+cd php-mongo-blog-prototype
 ```
 Install dependencies
 ```
