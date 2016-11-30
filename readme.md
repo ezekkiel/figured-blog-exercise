@@ -16,7 +16,7 @@ Installation
 
 Clone the repo
 ```
-git clone git@github.com:ezekkiel/figured-blog-exercise.git
+git clone git@github.com:ezerw/php-mongo-blog-prototype.git
 cd php-mongo-blog-prototype
 ```
 Install dependencies
