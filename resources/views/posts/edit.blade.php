@@ -1,9 +1,5 @@
 @extends('layouts.admin')
 
-@push('styles')
-<link href="//cdnjs.cloudflare.com/ajax/libs/summernote/0.8.2/summernote.css" rel="stylesheet">
-@endpush
-
 @section('content')
     <div class="panel panel-default">
         <div class="panel-heading">
