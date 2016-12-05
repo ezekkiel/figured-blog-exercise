@@ -6,7 +6,7 @@ require('bootstrap-sass');
 require('vue-resource');
 
 Vue.http.interceptors.push((request, next) => {
-    request.headers.set('X-CSRF-TOKEN', FiguredBlogExercise.csrfToken);
+    request.headers.set('X-CSRF-TOKEN', Blog.csrfToken);
 
     next();
 });
