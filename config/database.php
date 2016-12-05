@@ -83,7 +83,7 @@ return [
             'driver'   => 'mongodb',
             'host'     => 'localhost',
             'port'     => 27017,
-            'database' => 'figured-blog',
+            'database' => 'blog',
             'username' => '',
             'password' => '',
             'options'  => [
