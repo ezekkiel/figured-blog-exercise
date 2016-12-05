@@ -13,7 +13,7 @@
     <link href="/css/app.css" rel="stylesheet">
 
     <script>
-        window.FiguredBlogExercise = <?= json_encode([
+        window.Blog = <?= json_encode([
                 'csrfToken' => csrf_token(),
         ]); ?>
     </script>
